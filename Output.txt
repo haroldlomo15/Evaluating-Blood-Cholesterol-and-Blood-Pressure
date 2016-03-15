@@ -1,0 +1,139 @@
+Please enter the number of patient's records: 4
+
+
+Current Patient's Name- Jones
+
+DATA SET 1
+Cholesterol Profile
+HDL: 60 LDL: 124
+Ratio: 0.4839
+HDL is Excellent
+LDL is Near Optimal
+Ratio of HDL to LDL is good
+Blood Pressure Profile
+Systolic: 130 Diastolic: 84
+Systolic reading is Normal high
+Diastolic reading is Normal
+
+
+DATA SET 2
+Cholesterol Profile
+HDL: 65 LDL: 121
+Ratio: 0.5372
+HDL is Excellent
+LDL is Near Optimal
+Ratio of HDL to LDL is good
+Blood Pressure Profile
+Systolic: 133 Diastolic: 80
+Systolic reading is Normal high
+Diastolic reading is Normal
+
+
+DATA SET 3
+Cholesterol Profile
+HDL: 70 LDL: 120
+Ratio: 0.5833
+HDL is Excellent
+LDL is Near Optimal
+Ratio of HDL to LDL is good
+Blood Pressure Profile
+Systolic: 130 Diastolic: 81
+Systolic reading is Normal high
+Diastolic reading is Normal
+
+
+New Patient's Name- Smith
+
+DATA SET 1
+Cholesterol Profile
+HDL: 30 LDL: 195
+Ratio: 0.1538
+HDL is Too Low
+LDL is Very High
+Ratio of HDL to LDL is not good
+Blood Pressure Profile
+Systolic: 120 Diastolic: 85
+Systolic reading is Normal
+Diastolic reading is Normal high
+
+
+Referral Patient's Name- Williams
+
+DATA SET 1
+Cholesterol Profile
+HDL: 45 LDL: 185
+Ratio: 0.2432
+HDL is Is Okay
+LDL is High
+Ratio of HDL to LDL is not good
+Blood Pressure Profile
+Systolic: 190 Diastolic: 112
+Systolic reading is Stage 3 hypertension
+Diastolic reading is Stage 3 hypertension
+
+
+DATA SET 2
+Cholesterol Profile
+HDL: 50 LDL: 181
+Ratio: 0.2762
+HDL is Is Okay
+LDL is High
+Ratio of HDL to LDL is not good
+Blood Pressure Profile
+Systolic: 193 Diastolic: 115
+Systolic reading is Stage 3 hypertension
+Diastolic reading is Stage 3 hypertension
+
+
+Returning Patient's Name- Foster
+
+DATA SET 1
+Cholesterol Profile
+HDL: 55 LDL: 165
+Ratio: 0.3333
+HDL is Is Okay
+LDL is High
+Ratio of HDL to LDL is good
+Blood Pressure Profile
+Systolic: 163 Diastolic: 115
+Systolic reading is Stage 2 hypertension
+Diastolic reading is Stage 3 hypertension
+
+
+DATA SET 2
+Cholesterol Profile
+HDL: 65 LDL: 145
+Ratio: 0.4483
+HDL is Excellent
+LDL is Borderline high
+Ratio of HDL to LDL is good
+Blood Pressure Profile
+Systolic: 167 Diastolic: 95
+Systolic reading is Stage 2 hypertension
+Diastolic reading is Stage 1 hypertension
+
+
+DATA SET 3
+Cholesterol Profile
+HDL: 57 LDL: 165
+Ratio: 0.3455
+HDL is Is Okay
+LDL is High
+Ratio of HDL to LDL is good
+Blood Pressure Profile
+Systolic: 163 Diastolic: 105
+Systolic reading is Stage 2 hypertension
+Diastolic reading is stage 2 hypertension
+
+
+DATA SET 4
+Cholesterol Profile
+HDL: 59 LDL: 163
+Ratio: 0.3620
+HDL is Is Okay
+LDL is High
+Ratio of HDL to LDL is good
+Blood Pressure Profile
+Systolic: 165 Diastolic: 108
+Systolic reading is Stage 2 hypertension
+Diastolic reading is stage 2 hypertension
